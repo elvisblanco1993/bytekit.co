@@ -144,15 +144,19 @@
                 We make some cool platforms. Check them out and let us know if you need help setting up an account.
             </div>
             <div class="mt-12 grid grid-cols-3 gap-8">
-                <div class="col-span-3 sm:col-span-1">
-                    <p>A privacy-focused alternative to Linktr.ee</p>
-                </div>
-                <div class="col-span-3 sm:col-span-1">
-                    <p>Podcast hosting platform</p>
-                </div>
-                <div class="col-span-3 sm:col-span-1">
-                    <p>A secure file sharing platform for businesses</p>
-                </div>
+                <a href="https://linkd.page" target="_blank" class="col-span-3 sm:col-span-1 bg-slate-50 rounded-md shadow hover:shadow-lg hover:text-indigo-600">
+                    <img src="{{asset('linkd.page.png')}}" alt="" class="w-full rounded-t-md object-cover">
+                    <p class="p-4 text-xl font-bold">Linkd Pages</p>
+                </a>
+                <a href="https://voicebits.co" target="_blank" class="col-span-3 sm:col-span-1 bg-slate-50 rounded-md shadow hover:shadow-lg hover:text-indigo-600">
+                    <img src="{{asset('voicebits.co.png')}}" alt="" class="w-full rounded-t-md object-cover">
+                    <p class="p-4 text-xl font-bold">Voicebits Podacsts</p>
+                </a>
+                <a href="" target="_blank" class="col-span-3 sm:col-span-1 bg-slate-50 rounded-md shadow hover:shadow-lg hover:text-indigo-600">
+                    <img src="{{asset('cloud.bytekit.co.png')}}" alt="" class="w-full rounded-t-md object-cover">
+                    <p class="p-4 text-xl font-bold">ByteKit CIS</p>
+                    {{-- CIS: Customer Information System --}}
+                </a>
             </div>
         </div>
 
