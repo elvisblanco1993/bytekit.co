@@ -150,7 +150,7 @@
                 </a>
                 <a href="https://voicebits.co" target="_blank" class="col-span-3 sm:col-span-1 bg-slate-50 rounded-md shadow hover:shadow-lg hover:text-indigo-600">
                     <img src="{{asset('voicebits.co.png')}}" alt="" class="w-full rounded-t-md object-cover">
-                    <p class="p-4 text-xl font-bold">Voicebits Podacsts</p>
+                    <p class="p-4 text-xl font-bold">Voicebits Podcasts</p>
                 </a>
                 <a href="" target="_blank" class="col-span-3 sm:col-span-1 bg-slate-50 rounded-md shadow hover:shadow-lg hover:text-indigo-600">
                     <img src="{{asset('cloud.bytekit.co.png')}}" alt="" class="w-full rounded-t-md object-cover">
