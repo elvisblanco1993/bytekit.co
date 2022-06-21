@@ -17,6 +17,7 @@
 
         <!-- Scripts -->
         <script src="{{ mix('js/app.js') }}" defer></script>
+        <script src="https://cdn.usefathom.com/script.js" data-site="YFEXUYWV" defer></script>
     </head>
     <body>
         <div class="font-sans text-gray-900 antialiased">
