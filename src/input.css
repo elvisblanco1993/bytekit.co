@@ -1,0 +1,13 @@
+@import url(https://fonts.bunny.net/css?family=fira-mono:400,500,700|inter:100,200,300,400,500,600,700,800,900);
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer utilities {
+    h1 {
+        font-family: 'Inter', sans-serif;
+    }
+    * {
+        font-family: 'Fira Mono', monospace;
+    }
+}
